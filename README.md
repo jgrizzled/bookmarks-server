@@ -1,13 +1,6 @@
-# Express Boilerplate
+# Bookmarks Server
 
-## Setup
-
-1. `git clone REPO-URL NEW-PROJECT-NAME`
-2. `cd NEW-PROJECT-NAME`
-3. Edit `package.json` with new project details and deploy script
-4. `mv example.env .env` and add environment variables to config.js
-5. `rm -rf .git && git init`
-6. `yarn`
+Example Express server for Bookmarks App
 
 ## Scripts
 
